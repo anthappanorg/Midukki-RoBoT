@@ -268,12 +268,12 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/MovieHouseOrg"
                 ),
             button()
                 (
                     "Updates",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/CodeHouse_TG"
                 )
         ],
         [
@@ -347,12 +347,12 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/CodeHouse_TG"
                 ),
             button()
                 (
-                    "Source",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                    "Source Repo",
+                        url="https://Github.com/PROFESSOR-99/Midukki-Robot"
                 )
         ],
         [
@@ -364,7 +364,7 @@ class vars(object):
             button()
                 (
                     "Insta",
-                        url="https://www.instagram.com/mrk_yt_"
+                        url="https://www.instagram.com/moviehousetg"
                 )
         ],
         [
