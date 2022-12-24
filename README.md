@@ -1,5 +1,5 @@
 <p align="center">
-<img style="width:100px; height:100px;" src="Assets/Midukki-RoBoT.png" alt="Midukki RoBoT Logo">
+<img style="width:100px; height:100px;" src="Assets/Midukki-RoBoT.jpg" alt="Midukki RoBoT Logo">
 </p>
 
 <h1 align="center">
@@ -21,6 +21,8 @@ Midukki RoBoT simplifies the management, administration and security of your gro
 
 ### Credits
 
+- Thanks To [Kumbidi-swami](https://github.com/kumbidi-swami)
+
 - Thanks to [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 - Thanks To [EvamariaTG](https://github.com/EvamariaTG)
@@ -35,7 +37,7 @@ Midukki RoBoT simplifies the management, administration and security of your gro
 
 ### Support
 
-Join Our [Telegram Group](https://t.me/+sv5flNs7yew1OTk1) For Support/Assistance And Our [Channel](https://telegram.dog/Mo_Tech_YT) For Updates.
+Join Our [Telegram Group](https://t.me/Private_group_2022) For Support/Assistance And Our [Channel](https://telegram.dog/private_botz) For Updates.
 
 Report Bugs, Give Feature Requests There..
 Do Fork And Star The Repository If You Liked It.
@@ -79,13 +81,13 @@ Read this before you start messing up with your edits
 
 • `COLLECTION_NAME` : Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot
 
-• `DATABASE_NAME` : Name of the database in [mongoDB](https://www.mongodb.com/). For more help watch this [video](https://youtu.be/mD9veNL7KoE)
+• `DATABASE_NAME` : Name of the database in [mongoDB](https://www.mongodb.com/).
 
-• `DATABASE_URL` : [mongoDB](https://www.mongodb.com/) URI. Get this value from [mongoDB](https://www.mongodb.com/). For more help watch this [video](https://youtu.be/mD9veNL7KoE)
+• `DATABASE_URL` : [mongoDB](https://www.mongodb.com/) URI. Get this value from [mongoDB](https://www.mongodb.com/). 
 
 • `FORCE_SUB` : ID of channel. Without subscribing this channel users cannot use Autofilter
 
-• `GITHUB_USERNAME` Enter Your Github Username `Pr0fess0r-99`
+• `GITHUB_USERNAME` Enter Your Github Username `kumbidi-swami`
 
 • `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel
 
@@ -122,19 +124,16 @@ How To Deploy 👉
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/Midukki-RoBoT">
+<a href="https://heroku.com/deploy?template=https://github.com/kumbidi-swami/Midukki-RoBoT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
 
 <details><summary>Deploy To Railway</summary>
-<p>
-<br>
-<a href="https://railway.app?referralCode=PR0FESS0R-99">
-  <img src="https://railway.app/button.svg" alt="Deploy">
-</a>
-</p>
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/S7ix_N?referralCode=jCQYd3)
+
 </details>
 
 ### Repo Status
